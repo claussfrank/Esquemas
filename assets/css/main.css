@@ -1,0 +1,41 @@
+.contenedor{
+  width: 400px;
+  height: 400px;
+  position: relative;
+  margin-top: 50px;
+}
+#rojo{
+  background: red;
+}
+#azul{
+  background: blue;
+}
+
+.padreUno{
+  background:purple;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top:100px;
+  left:100px;
+}
+.hijoUno{
+  background:yellow;
+  width: 100px;
+  height: 100px;
+}
+
+.padreDos{
+  background:green;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top:100px;
+  left:100px;
+}
+.hijoDos{
+  background:black;
+  width: 100px;
+  height: 100px;
+
+}
